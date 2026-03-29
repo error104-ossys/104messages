@@ -1,5 +1,4 @@
 # 104messages
-linux messanger to mobile
 #!/usr/bin/env python3
 """
 WhatsApp Messenger - Send and receive WhatsApp messages via Twilio
